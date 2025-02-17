@@ -1,12 +1,13 @@
 package alunos;
 
-public class alunos {
+public class Aluno {
 
       private String nome;
       private int Idade;
-      private String cpf;
 
-      public alunos(String nome, int Idade, String cpf){
+
+
+      public Aluno(String nome, int Idade){
           this.nome = nome;
           this.Idade = Idade;
       }
@@ -18,7 +19,5 @@ public class alunos {
         return Idade;
      }
 
-     private String getCpf(){
-          return cpf;
-     }
+     
 }
