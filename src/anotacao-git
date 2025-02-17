@@ -1,0 +1,5 @@
+passos para fazer um push(subir um commit).
+
+git add .
+git commit -m "nome da alteracao"
+git push -u origin main 
