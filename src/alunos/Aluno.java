@@ -1,3 +1,5 @@
+package alunos;
+
 public class alunos {
 
       private String nome;
